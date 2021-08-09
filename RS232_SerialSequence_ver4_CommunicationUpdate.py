@@ -2,6 +2,8 @@ import serial
 import time
 from tkinter import *
 
+# check 해보자
+
 cycle = 0
 targetcycle = 0
 getcycle = 0
