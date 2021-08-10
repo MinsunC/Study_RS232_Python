@@ -4,6 +4,7 @@ from tkinter import *
 
 # check 해보자
 # git 기능 익히기
+# Test 2
 
 cycle = 0
 targetcycle = 0
