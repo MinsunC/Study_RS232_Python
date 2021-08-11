@@ -4,7 +4,12 @@ from tkinter import *
 
 # check 해보자
 # git 기능 익히기
+<<<<<<< HEAD
 # Test 2
+=======
+# git rkd
+#######
+>>>>>>> 740ea3f6ed2e8d6de0f3128f26cb25ddb149cb25
 
 cycle = 0
 targetcycle = 0
