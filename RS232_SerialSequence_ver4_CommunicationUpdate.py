@@ -5,6 +5,7 @@ from tkinter import *
 # check 해보자
 # git 기능 익히기
 # git rkd
+#######
 
 cycle = 0
 targetcycle = 0
